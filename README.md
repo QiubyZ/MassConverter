@@ -12,10 +12,10 @@ From File Folder = The place where the file will be converted
 To Folder = The place where all files will be placed or stored 
 convert to Extension = The desired final result of the extension 
 
-[One](./foto/1.jpg)
+![One](./foto/1.jpg)
 
-[two](./foto/2.jpg)
+![two](./foto/2.jpg)
 
 The final result
-[tree](./foto/3.jpg)
+![tree](./foto/3.jpg)
 
